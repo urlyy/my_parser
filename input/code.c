@@ -1,5 +1,3 @@
-
-
 int fun(int a,int b){
     int res = 0;
     int tmp;

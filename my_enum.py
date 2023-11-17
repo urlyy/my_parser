@@ -14,3 +14,4 @@ class NodeName(Enum):
     UPDATE_EXPRESSION="update_expression"
     FOR = "for_statement"
     WHILE = "while_statement"
+    FUNCTION_DEFINITION = 'function_definition'
